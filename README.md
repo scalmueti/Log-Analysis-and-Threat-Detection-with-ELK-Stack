@@ -1,11 +1,11 @@
-# Log Analysis and Threat Detection with ELK Stack
+# Log Analysis with ELK Stack
 
 ## Objective
 Utilizes the ELK Stack (Elasticsearch, Logstash, and Kibana) for log analysis, threat detection, and data visualization to identify and respond to security incidents efficiently.
 
 ### Skills Learned
 - Processing log parsing and ingestion from various sources (Sysmon)
-- Threat detection via queries and dashboards (Kibana dashboards)
+- Detection via queries and dashboards (Kibana dashboards)
 - Analyzing log data to trace security events and discover incidents (Using filters)
 - Indexing data and storing it for efficient searching and retrieving for later (Elasticsearch)
 
