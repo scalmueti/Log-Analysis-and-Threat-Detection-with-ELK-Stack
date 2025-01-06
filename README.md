@@ -16,4 +16,6 @@ Utilizes the ELK Stack (Elasticsearch, Logstash, and Kibana) for log analysis, t
 
 ## Steps
 
-*Ref 1: test*
+1. Make a elastic account and deploy an environment
+<img src="https://raw.githubusercontent.com/scalmueti/Log-Analysis-and-Threat-Detection-with-ELK-Stack/refs/heads/main/Screenshots/Step%201_Make%20elastic%20Account.png">
+*Ref 1: Created Elasticsearch deployment*
